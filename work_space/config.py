@@ -1,0 +1,3 @@
+TOKEN = '5165203476:AAFJgLFRTnV2gqKx-6CM0Myc_xyHE3xImQY'
+BOT_NAME = '@andry_admin_bot'
+BOT_ID = '5165203476'
